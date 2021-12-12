@@ -1,7 +1,7 @@
 pipeline{
 agent any
 tools { 
-        maven 'mvn-3.8.4' 
+        maven 'mvn-3.8.4'  //names written or configured in jenkins, global tool configuration
         jdk 'jdk-1.8' 
     }
 stages 
