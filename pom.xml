@@ -4,7 +4,7 @@
 
   <groupId>JenkinsPipelineDemoPrjoject</groupId>
   <artifactId>JenkinsPipelineDemoPrjoject</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>vnd-01-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>JenkinsPipelineDemoPrjoject</name>
